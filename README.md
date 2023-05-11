@@ -1,2 +1,1 @@
-# mqttfastapi
-Mqtt api running on hopefully more robust fastapi
+# Python3 Flask project
